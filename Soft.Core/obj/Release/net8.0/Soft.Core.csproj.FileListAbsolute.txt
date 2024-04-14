@@ -1,0 +1,16 @@
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\bin\Release\net8.0\Soft.Core.deps.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\bin\Release\net8.0\Soft.Core.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\bin\Release\net8.0\Soft.Core.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\bin\Release\net8.0\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\bin\Release\net8.0\Soft.EntityLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.csproj.AssemblyReference.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.AssemblyInfoInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.AssemblyInfo.cs
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.csproj.CoreCompileInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.sourcelink.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.csproj.Up2Date
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\refint\Soft.Core.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\Soft.Core.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.Core\obj\Release\net8.0\ref\Soft.Core.dll

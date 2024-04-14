@@ -1,0 +1,45 @@
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.deps.json
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\refint\Soft.EntityLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\PC\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\ref\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.deps.json
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfo.cs
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\refint\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.EntityLayer\obj\Debug\net8.0\ref\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.deps.json
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfo.cs
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\refint\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.EntityLayer\obj\Debug\net8.0\ref\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.deps.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.AssemblyInfo.cs
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.sourcelink.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\refint\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.EntityLayer\obj\Debug\net8.0\ref\Soft.EntityLayer.dll

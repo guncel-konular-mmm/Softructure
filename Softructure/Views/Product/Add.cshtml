@@ -1,0 +1,54 @@
+﻿
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<!DOCTYPE html>
+<div class="content" style="width: 400px; margin-left: 35%; margin-bottom: 10%; margin-top: 5%;">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header"><h5 class="title">Ürün Ekle</h5></div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-3">
+                        <label>Ürüm İsmi</label>
+                        <div class="form-group">
+                            <input type="text" name="ProductName" class="form-control" placeholder="Ürün İsmi" />
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Ürün Kodu</label>
+                        <div class="form-group">
+                            <input type="text" name="ProductCode" class="form-control" placeholder="Ürün Kodu" />
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Ürün Açıklaması</label>
+                        <div class="form-group">
+                            <input type="text" name="ProductDesc" class="form-control" placeholder="Ürün Açıklaması" />
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Miktar</label>
+                        <div class="form-group">
+                            <input type="number" name="Quantity" class="form-control" placeholder="Miktar" />
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Birim Fiyat</label>
+                        <div class="form-group">
+                            <input type="number" name="UnitPrice" class="form-control" placeholder="Birim Fiyat" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <button class="btn btn-fill btn-primary w-25">Ekle</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</html>

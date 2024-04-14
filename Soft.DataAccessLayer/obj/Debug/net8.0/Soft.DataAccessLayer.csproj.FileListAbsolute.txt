@@ -1,0 +1,77 @@
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.deps.json
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.pdb
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\refint\Soft.DataAccessLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\ref\Soft.DataAccessLayer.dll
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.runtimeconfig.json
+C:\Users\PC\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.genruntimeconfig.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.deps.json
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.runtimeconfig.json
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfo.cs
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CopyComplete
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\refint\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.genruntimeconfig.cache
+C:\Users\enes.kara\Desktop\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\ref\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.deps.json
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.runtimeconfig.json
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfo.cs
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CopyComplete
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\refint\Soft.DataAccessLayer.dll
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.genruntimeconfig.cache
+C:\Users\enes.kara\Desktop\Altyapı Çalışmaları\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\ref\Soft.DataAccessLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.deps.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.runtimeconfig.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.Core.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\bin\Debug\net8.0\Soft.EntityLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.AssemblyInfo.cs
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.sourcelink.json
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\refint\Soft.DataAccessLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.pdb
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.DataAccessLayer.genruntimeconfig.cache
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\ref\Soft.DataAccessLayer.dll
+C:\Users\metin.aba\Downloads\Softructure1\Softructure\Soft.DataAccessLayer\obj\Debug\net8.0\Soft.Dat.C656C7D7.Up2Date

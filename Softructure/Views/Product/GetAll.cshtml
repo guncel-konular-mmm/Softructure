@@ -1,0 +1,50 @@
+﻿@using Soft.EntityLayer.Concrete
+@model List<Product>
+
+<!DOCTYPE html>
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+
+<div class="container">
+    <div class="p-2 w-100 m-0">
+        <a href="/Product/Add" class="btn btn-success">Ürün Ekle</a>
+    </div>
+    <br/>
+    <h3 class="display-6">Ürün Listesi</h3>
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Ürün Adı</th>
+            <th>Ürün Kodu</th>
+            <th>Ürün Açıklaması</th>
+            <th>Miktar</th>
+            <th>Birim Fiyat</th>
+            <th></th>
+        </tr>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ProductName</td>
+                <td>@item.ProductCode</td>
+                <td>@item.ProductDesc</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice</td>
+                <td>
+                    <form action="/Product/ProductDetail/@item.Id" method="post" style="display: inline;">
+                        <button type="submit" class="btn btn-sm btn-info">İncele</button>
+                    </form>
+                    <form action="/Product/ProductUpdate/@item.Id" method="post" style="display: inline;">
+                        <button type="submit" class="btn btn-sm btn-warning">Güncelle</button>
+                    </form>
+                    <form action="/Product/ProductDelete/@item.Id" method="post" style="display: inline;">
+                        <button type="submit" class="btn btn-sm btn-danger">Sil</button>
+                    </form>
+              
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+</html>
